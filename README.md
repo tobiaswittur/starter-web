@@ -10,7 +10,11 @@ Sample website with plenty of files for demos
 
 ##How to contribute
 
+Contribution test
+
 ##Contacts
+
+tests
 
 ##Comments
 
